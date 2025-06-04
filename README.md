@@ -14,6 +14,9 @@ Este repositório contém o trabalho desenvolvido no Projeto Integrador "Geraç�
 
 Desde a popularização dos canais de atendimento ao consumidor, reclamações registradas têm se tornado uma fonte valiosa de informações sobre a qualidade de produtos e serviços[cite: 3]. Este projeto investiga os elementos que diferenciam empresas com melhor desempenho na resolução de conflitos com clientes, combinando técnicas de análise de dados e geração de linguagem natural[cite: 4]. O objetivo final é extrair recomendações concretas para organizações sobre como aprimorar seu atendimento e aumentar a satisfação do consumidor[cite: 5].
 
+## Integrantes do Grupo:
+Arthur Cunha Lasthaus - 10735627
+
 ## Dataset
 
 O estudo baseou-se num resumo detalhado do dataset obtido do site Consumidor.gov.br. Foram coletados 1.048.575 registros[cite: 6, 31].
