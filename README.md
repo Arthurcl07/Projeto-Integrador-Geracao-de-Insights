@@ -2,6 +2,9 @@
 
 Este repositório contém o trabalho desenvolvido no Projeto Integrador "Geração de Insights", focado na análise de dados de reclamações de consumidores extraídos do site Consumidor.gov.br para os anos de 2023 e 2024. O objetivo principal do projeto foi identificar padrões, tendências e fatores que influenciam a satisfação do consumidor e o desempenho das empresas na resolução de problemas, utilizando técnicas de análise de dados e agrupamento (clustering).
 
+## Integrantes do Grupo:
+Arthur Cunha Lasthaus - 10735627
+
 ## Estrutura do Repositório
 
 * `README.md`: Este arquivo, apresentando uma visão geral do projeto.
@@ -13,9 +16,6 @@ Este repositório contém o trabalho desenvolvido no Projeto Integrador "Geraç�
 ## Objetivo do Projeto
 
 Desde a popularização dos canais de atendimento ao consumidor, reclamações registradas têm se tornado uma fonte valiosa de informações sobre a qualidade de produtos e serviços[cite: 3]. Este projeto investiga os elementos que diferenciam empresas com melhor desempenho na resolução de conflitos com clientes, combinando técnicas de análise de dados e geração de linguagem natural[cite: 4]. O objetivo final é extrair recomendações concretas para organizações sobre como aprimorar seu atendimento e aumentar a satisfação do consumidor[cite: 5].
-
-## Integrantes do Grupo:
-Arthur Cunha Lasthaus - 10735627
 
 ## Dataset
 
